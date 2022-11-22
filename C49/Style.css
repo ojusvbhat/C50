@@ -1,0 +1,27 @@
+h1 {
+        color: skyblue;
+}
+
+
+
+ .looks {
+    background-color: pink;
+    display: flex ;
+    justify-content:space-between;
+ }
+
+ .Games {
+ 
+    display: flex;
+    justify-content: space-between;
+ }
+
+.Social{
+    background-color:white ;
+    display: flex;
+   justify-content: end;
+}
+
+p,h2 {
+    text-align: center;
+}
